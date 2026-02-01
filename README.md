@@ -5,7 +5,7 @@ Repo này chứa cấu hình mẫu để:
 
 ## Nội dung
 - `asterisk/` : Cấu hình Asterisk (sip.conf, extensions.conf, voicemail.conf)
-- `docs/`    : Hướng dẫn chi tiết cài đặt & cấu hình
+- `docs/`    : Mô tả hệ thống
 
 ## Yêu cầu
 - Ubuntu 20.04 / Debian 11
